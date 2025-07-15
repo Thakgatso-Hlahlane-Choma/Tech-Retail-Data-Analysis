@@ -1,89 +1,80 @@
-<h1 align="center">🛍️ Tech Retail Sales Dashboard</h1>
+# 🛍️ Tech Retail Sales Dashboard
 
-<p align="center">
-  <img src="dashboard_preview.png" alt="Dashboard Screenshot" width="600">
-</p>
+**Insightful | Interactive | Excel-Based**
 
-<p align="center">
-  <b>Insightful | Interactive | Visual</b>  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat-square&logo=powerbi">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=checkmarx">
-  <img src="https://img.shields.io/badge/Type-Dashboard-blueviolet?style=flat-square&logo=data">
-</p>
+This project is a **Tech Retail Sales Dashboard** developed using **Microsoft Excel** to analyze key sales metrics from a retail dataset. It provides managers and analysts with a clear view of performance across product lines, customer demographics, branches, and payment types.
 
 ---
 
-## ✨ Overview
+## ✨ Features
 
-The **Tech Retail Sales Dashboard** provides a comprehensive, visual analysis of sales performance across different dimensions such as:
+- 📊 **KPI Highlights**:  
+  - Total Sales  
+  - Gross Income  
+  - Average Cost  
+  - Quantity Sold  
+  - Avg. Customer Rating  
 
-- 🛒 Product lines
-- 🏪 Store branches
-- 💳 Payment types
-- 🧍 Customer demographics
-
-It’s designed to empower retail managers and analysts to make **data-driven decisions** faster.
-
----
-
-## 📊 Key Dashboard Features
-
-| Feature                         | Description                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| 📈 **KPIs Panel**              | Track total sales, gross income, avg. cost, and customer satisfaction       |
-| 🧾 **Sales by Product Line**   | View performance of each product category                                   |
-| 📉 **Gross Income vs. COGS**   | Compare profitability metrics                                               |
-| 📆 **Sales Over Time**         | Understand trends across months                                             |
-| 🗺️ **Branch-Level Summary**   | Visualize branch performance and distribution                               |
-| 🎯 **Customer Filters**        | Drill down by gender, payment method, city, and customer type              |
+- 🛍️ **Sales Breakdown by Product Line**
+- 💳 **Gross Income vs. Average COGS**
+- 📆 **Total Sales Over Time**
+- 🏪 **Branch Performance**
+- 🎯 **Interactive Filters**:
+  - Branch  
+  - City  
+  - Gender  
+  - Customer Type  
+  - Payment Method  
+  - Date Range  
 
 ---
 
-## 🖼️ Live Preview
+## 📁 Project Structure
 
-> If supported, embed an interactive gif or video demo (Sora, Loom, or exported GIF). Otherwise, static images work great!
 
-![GIF Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVzdGdpZmJpZlRlc3Q/testgif/giphy.gif)  
-<!-- Replace with real gif link if available -->
+---
 
-> Or static preview:
+## 📈 Insights from the Dashboard
 
-<p align="center">
-  <img src="dashboard_preview.png" width="800">
-</p>
+- **Branch A** outperforms other branches in both total sales and gross income.
+- **Electronic Accessories** and **Food & Beverages** lead in product-line revenue.
+- **Credit Card** payments are the most used method.
+- **Returning customers** maintain steady revenue streams.
+- Seasonal sales peaks observed in mid-year months.
+
+---
+
+## 🛠 Tools Used
+
+| Tool          | Purpose                             |
+|---------------|-------------------------------------|
+| Microsoft Excel | Dashboard creation, Pivot Tables, Charts |
+| Excel Formulas | KPI calculations, filtering logic  |
+| Slicers       | Interactive filtering for user control |
 
 ---
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file or clone the repository
-2. Open with **Microsoft Power BI Desktop**
-3. Explore and interact with filters, slicers, and visuals
-4. Optional: Connect your own dataset for testing
+1. Open `TechRetailDashboard.xlsx` using **Excel 2016 or newer**.
+2. Use slicers to filter data by branch, gender, city, or product line.
+3. Explore chart visuals and KPIs for insights.
+4. Extend the dashboard using your own dataset if desired.
 
 ---
 
-## 🧠 Insights Extracted
+## 🙌 Feedback
 
-- **Branch A** performs best in total sales and gross income  
-- **Electronic Accessories** and **Food & Beverages** are top product lines  
-- **Credit card payments** are most common  
-- **Returning customers** contribute to long-term value
+This dashboard is part of my data analytics portfolio. If you have ideas for improvement or want to collaborate, feel free to open an issue or reach out.
 
 ---
 
-## 🛠 Tech Stack
+## 🔗 Connect With Me
 
-| Tool        | Purpose                       |
-|-------------|-------------------------------|
-| Power BI    | Data Modeling & Visualization |
-| Excel       | Initial Data Cleaning         |
-| DAX         | KPIs and Calculated Fields    |
+- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 🐙 [GitHub](https://github.com/yourusername)
+- ✉️ Email: yourname@example.com
 
 ---
 
-## 📂 Files Included
-
+> 💬 *“Numbers have an important story to tell. They rely on you to give them a clear and convincing voice.”* — Stephen Few

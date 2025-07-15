@@ -71,9 +71,9 @@ This dashboard is part of my data analytics portfolio. If you have ideas for imp
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 💼 [LinkedIn](www.linkedin.com/in/thakgatsochomaindustrialengineer)
 - 🐙 [GitHub](https://github.com/yourusername)
-- ✉️ Email: yourname@example.com
+- ✉️ Email: chomathakgatso2@gmail.com
 
 ---
 
